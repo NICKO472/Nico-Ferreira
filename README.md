@@ -1,10 +1,10 @@
 
-<h1>Nathan Motoki's Repositories<h1>
+<h1>Nico Ferreira Dev<h1>
 
 <div align="center">
-  <a href="https://github.com/NathanMotoki">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanMotoki&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanMotoki&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/NICKO472">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nico+Ferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico+Ferreira&layout=compact&langs_count=7&theme=dark"/>
     <div style="display: inline_block">
   <img align="center" alt="Nathan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nathan-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
